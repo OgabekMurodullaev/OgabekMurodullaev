@@ -75,9 +75,8 @@
 ---
 
 ## 👀 **Profilga tashriflar soni**  
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=OgabekMurodullaev">
-</p>
+![Profilga tashriflar](https://komarev.com/ghpvc/?username=OgabekMurodullaev&color=blue)
+
 
 ---
 
